@@ -1,0 +1,2 @@
+# Adjacent-Channel-Power-Ratio-ACPR-Analysis-of-FM-Signals-using-SDR-and-MATLAB
+This project evaluates the Adjacent Channel Power Ratio (ACPR) of FM signals using SDR for real-time signal capture and MATLAB for processing. It highlights spectral interference analysis, power spectral density estimation, and ACPR computation, offering insights into optimizing FM signal quality and regulatory compliance.
